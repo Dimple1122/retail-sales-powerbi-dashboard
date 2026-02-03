@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,SubCategory,Cost,Price
+1,Laptop 1,Electronics,Laptop,250,421.52
+2,Smartphone 2,Electronics,Smartphone,538,881.56
+3,Tablet 3,Electronics,Tablet,687,892.57
+4,Headphones 4,Electronics,Headphones,69,93.9
+5,Smartwatch 5,Electronics,Smartwatch,189,287.72
+6,Chair 6,Furniture,Chair,408,682.88
+7,Table 7,Furniture,Table,88,144.39
+8,Sofa 8,Furniture,Sofa,843,1373.73
+9,Bookshelf 9,Furniture,Bookshelf,78,137.15
+10,Bed 10,Furniture,Bed,307,455.13
+11,T-Shirt 11,Clothing,T-Shirt,114,186.02
+12,Jeans 12,Clothing,Jeans,641,1060.53
+13,Jacket 13,Clothing,Jacket,244,408.96
+14,Shoes 14,Clothing,Shoes,840,1106.6
+15,Cap 15,Clothing,Cap,764,1364.09
+16,Rice 16,Groceries,Rice,695,840.53
+17,Pulses 17,Groceries,Pulses,897,1187.13
+18,Oil 18,Groceries,Oil,705,1218.1
+19,Snacks 19,Groceries,Snacks,752,1293.17
+20,Beverage 20,Groceries,Beverage,353,466.94
+21,Shampoo 21,Beauty,Shampoo,634,848.37
+22,Face Cream 22,Beauty,Face Cream,214,281.27
+23,Perfume 23,Beauty,Perfume,785,1250.88
+24,Soap 24,Beauty,Soap,278,362.1
+25,Lotion 25,Beauty,Lotion,786,1155.59
