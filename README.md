@@ -1,4 +1,5 @@
 📊 Retail Sales Performance Dashboard — Power BI
+
 This project analyzes a retail sales dataset across three years to derive business insights on revenue trends, category performance, product contribution, and profit margins using Power BI.
 
 🛠 Tools Used
