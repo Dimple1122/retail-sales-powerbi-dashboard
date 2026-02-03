@@ -22,4 +22,5 @@ This project analyzes a retail sales dataset across three years to derive busine
 
 📸 Dashboard Preview
 <img width="877" height="486" alt="Sales_Executive_Summary" src="https://github.com/user-attachments/assets/6f27858c-535a-45ba-8f58-85e00a7682fd" />
+
 <img width="879" height="483" alt="Sales_category_and_product_analysis" src="https://github.com/user-attachments/assets/a49b0b5f-ad45-4333-8801-9ac879163e05" />
